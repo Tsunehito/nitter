@@ -9,5 +9,5 @@ nitter
 /tools/rendermd
 /public/css/style.css
 /public/md/*.html
-nitter.conf
+# nitter.conf
 dump.rdb
